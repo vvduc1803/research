@@ -19,3 +19,7 @@
 8.Cross-task Attention Mechanism for Dense Multi-task Learning [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)
 
 9.Towards Zero-Shot Scale-Aware Monocular Depth Estimation [PDF](https://arxiv.org/pdf/2306.17253.pdf)
+
+https://arxiv.org/pdf/2101.01169.pdf
+https://arxiv.org/pdf/2012.12556.pdf
+https://arxiv.org/pdf/1611.05594.pdf
