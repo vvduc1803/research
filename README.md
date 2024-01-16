@@ -20,8 +20,11 @@
 
 ## Grasp Detection:
 
-1.GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf) [Code](https://github.com/graspnet/graspnet-baseline)
+1.GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping (CVPR 2020) [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf) [Code](https://github.com/graspnet/graspnet-baseline)
 
-2.Graspness Discovery in Clutters for Fast and Accurate Grasp Detection [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.pdf) [Code](https://github.com/rhett-chen/graspness_implementation)
+2.Graspness Discovery in Clutters for Fast and Accurate Grasp Detection (ICCV 2021) [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.pdf) [Code](https://github.com/rhett-chen/graspness_implementation)
 
+3.RGB-D Grasp Detection via Depth Guided Learning with Cross-modal Attention (ICRA 2023) [PDF](https://arxiv.org/pdf/2302.14264.pdf)
+
+4.MonoGraspNet: 6-DoF Grasping with a Single RGB Image (ICRA 2023) [PDF](https://arxiv.org/pdf/2209.13036.pdf)
 
