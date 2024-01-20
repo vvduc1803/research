@@ -28,3 +28,10 @@
 
 4.MonoGraspNet: 6-DoF Grasping with a Single RGB Image (ICRA 2023) [PDF](https://arxiv.org/pdf/2209.13036.pdf)
 
+## Object Pose Estimation:
+
+1.Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions (CVPR2022) [PDF](https://arxiv.org/pdf/2203.17234.pdf) [Code](https://github.com/nv-nguyen/template-pose)
+
+2.GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence (arXiv 2023) [PDF](https://arxiv.org/pdf/2311.14155.pdf) [Code](https://github.com/nv-nguyen/gigapose) 
+
+3.Context-aware 6D Pose Estimation of Known Objects using RGB-D data (CVPR2022) [PDF](https://arxiv.org/pdf/2212.05560.pdf) [Code](https://github.com/Priyashuklalko123/Context-aware-6D-Pose-Estimation-of-Known-Objects-using-RGB-D-data/tree/main)
