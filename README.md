@@ -35,3 +35,34 @@
 2.GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence (arXiv 2023) [PDF](https://arxiv.org/pdf/2311.14155.pdf) [Code](https://github.com/nv-nguyen/gigapose) 
 
 3.Context-aware 6D Pose Estimation of Known Objects using RGB-D data (CVPR2022) [PDF](https://arxiv.org/pdf/2212.05560.pdf) [Code](https://github.com/Priyashuklalko123/Context-aware-6D-Pose-Estimation-of-Known-Objects-using-RGB-D-data/tree/main)
+
+## Future :
+
+Bi-directional cross-modality feature propagation with separation-and-aggregation gate for RGB-D semantic segmentation},
+  year={2020},
+
+
+Efficient rgb-d semantic segmentation for indoor scene analysis},
+ 2021
+
+Multimodal token fusion for vision transformers},
+2022
+
+Sample-Adapt Fusion Network for RGB-D Hand Detection in the Wild},
+2023
+
+  
+Transfusion: Robust lidar-camera fusion for 3d object detection with transformers},
+year=2022
+
+Deformable Feature Aggregation for Dynamic Multi-modal 3D Object Detection},
+2022
+
+3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection},
+2022
+
+Futr3d: A unified sensor fusion framework for 3d detection},
+2023
+
+LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion},
+2023
