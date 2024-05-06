@@ -1,3 +1,10 @@
+## Scene flow
+1.Optical flow and scene flow estimation: A survey [DPF](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000480)
+2.Neural Scene Flow Prior [PDF](https://arxiv.org/pdf/2111.01253)
+
+## Optical flow
+1.Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving [DPF](https://arxiv.org/pdf/2310.01723)
+
 ## Handposes Estimation:
 
 1.HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network [PDF](https://arxiv.org/abs/2203.14564)
@@ -14,9 +21,7 @@
 
 7.Cross-task Attention Mechanism for Dense Multi-task Learning [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)
 
-8.Cross-task Attention Mechanism for Dense Multi-task Learning [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Lopes_Cross-Task_Attention_Mechanism_for_Dense_Multi-Task_Learning_WACV_2023_paper.pdf)
-
-9.Towards Zero-Shot Scale-Aware Monocular Depth Estimation [PDF](https://arxiv.org/pdf/2306.17253.pdf)
+8.Towards Zero-Shot Scale-Aware Monocular Depth Estimation [PDF](https://arxiv.org/pdf/2306.17253.pdf)
 
 ## Grasp Detection:
 
@@ -35,34 +40,3 @@
 2.GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence (arXiv 2023) [PDF](https://arxiv.org/pdf/2311.14155.pdf) [Code](https://github.com/nv-nguyen/gigapose) 
 
 3.Context-aware 6D Pose Estimation of Known Objects using RGB-D data (CVPR2022) [PDF](https://arxiv.org/pdf/2212.05560.pdf) [Code](https://github.com/Priyashuklalko123/Context-aware-6D-Pose-Estimation-of-Known-Objects-using-RGB-D-data/tree/main)
-
-## Future :
-
-Bi-directional cross-modality feature propagation with separation-and-aggregation gate for RGB-D semantic segmentation},
-  year={2020},
-
-
-Efficient rgb-d semantic segmentation for indoor scene analysis},
- 2021
-
-Multimodal token fusion for vision transformers},
-2022
-
-Sample-Adapt Fusion Network for RGB-D Hand Detection in the Wild},
-2023
-
-  
-Transfusion: Robust lidar-camera fusion for 3d object detection with transformers},
-year=2022
-
-Deformable Feature Aggregation for Dynamic Multi-modal 3D Object Detection},
-2022
-
-3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection},
-2022
-
-Futr3d: A unified sensor fusion framework for 3d detection},
-2023
-
-LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion},
-2023
